@@ -4,3 +4,6 @@ function test(){
 
     const b= 20
 }
+
+
+var name = 'yogesh'
